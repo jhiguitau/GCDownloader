@@ -1,0 +1,10 @@
+{
+  "equipo1": {
+    "serial": "MXL10250ZJ",
+    "clave": "Adc#2022"
+  },
+  "equipo2": {
+    "serial": "SERIAL-XYZ789",
+    "clave": "OTRA-CLAVE-456"
+  }
+}
